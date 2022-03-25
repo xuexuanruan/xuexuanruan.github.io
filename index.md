@@ -32,3 +32,27 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 - 通讯作者；期刊影响因子：3.599；期刊分区：JCR一区，中科院二区，微波领域顶刊
 - [8] S. Zhou, S. Mu, S. Raju, C. Prawoto, X. Ruan*, K. Ng, et al., "Prototyping of terahertz metasurface by one-step lithographically defined templating," IEEE Photonics Technol. Lett., vol. 30, pp. 971-974, 2018.
 - 五作；期刊影响因子：2.468；期刊分区：JCR二区，中科院三区
+
+### 会议论文
+- [9] X. Ruan, K. B. Ng, H. Yi, S. W. Qu, and C. H. Chan, "A 90◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2019 13th European Conference on Antennas and Propagation (EUCAP), 2019, pp. 1-3.
+- 一作；EI检索
+- [10] X. Ruan, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "A 45◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2017 11th European Conference on Antennas and Propagation (EUCAP), 2017, pp. 846-848.
+- 一作；EI检索
+- [11] X. Ruan, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "Design and modeling of a circularly-polarized probe for terahertz near-field measurement," in 2016 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2016, pp. 1-2.
+- 一作；EI检索
+
+### 科研项目
+- [1] 2018年9月至2021年9月，南海立体通信——网络示范验证平台，3.906亿人民币，参与，负责设计Ku、Ka双频圆极化相控阵天线
+- [2] 2017年1月至今，用于太赫兹光谱和成像的小型化系统设计，2800万港币，核心参与，负责设计太赫兹天线及测试材料在太赫兹频段的性质
+- [3] 2017年9月至2021年8月，基于5G应用的宽频高增益和低副瓣阵列天线，63万港币，核心参与，尝试使用优化算法设计用于5G通讯的宽带高增益天线
+- [4] 2016年9月至2020年10月，5G及超5G的透射阵列天线，89万港币，参与，负责设计用于5G通讯的宽带高增益天线
+- [5] 2015年1月至2018年12月，应用于微波及太赫兹频段的低成本菲涅尔区平板透镜天线，73万港币，参与，负责设计用于5G通讯的宽带高增益天线
+
+### 学术兼职
+2022年至今，IEEE Member
+
+### 教学助理
+- 2019年，Wireless Connectivity in Modern Society
+- 2018年，Communication Engineering，Electronic Circuits
+- 2017年，Studies on Electronics Industry in China and Asia，Introduction to Electromagnetics
+- 2016年，Introduction to Electromagnetics，Applied Electromagnetics
