@@ -5,6 +5,10 @@
 - 2019年9月至2021年8月， 香港城市大学， 太赫兹及毫米波国家重点实验室， 博士后， 导师：陈志豪教授
 - 2016年1月至2019年6月， 香港城市大学， 电机工程系， 教学助理
 
+### 教育背景
+- 2015年9月至2019年9月， 香港城市大学， 电机工程系，  电机工程， 博士， 导师：陈志豪教授
+- 2011年9月至2015年7月， 电子科技大学， 电子工程学院， 电磁场与无线技术， 学士， 导师：屈世伟教授
+
 You can use the [editor on GitHub](https://github.com/xuexuanruan/xuexuanruan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
