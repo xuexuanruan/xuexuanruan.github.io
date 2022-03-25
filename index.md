@@ -10,8 +10,8 @@
 - 2011年9月至2015年7月，电子科技大学，电子工程学院，电磁场与无线技术，学士，导师：屈世伟教授
 
 ### 研究方向
-- 博士后至今，应用优化算法、机器学习设计5G 通讯器件，如天线、滤波器
-- 本科至博士，在毫米波、太赫兹频段的天线设计、超表面设计、材料测试
+- 博士后至今，应用优化算法、机器学习设计5G毫米波通讯器件，如天线、滤波器
+- 本科至博士，在5G毫米波、太赫兹频段的天线设计、超表面设计、材料测试
 
 ### 期刊论文
 - [1] X. Ruan*, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
