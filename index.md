@@ -1,9 +1,9 @@
 ## 阮学炫
 
 ### 工作经历
-2021年9月至今         鹏城实验室, 宽带通信研究部, 助理研究员
-2019年9月至2021年8月   香港城市大学, 太赫兹及毫米波国家重点实验室, 博士后, 导师：陈志豪教授
-2016年1月至2019年6月   香港城市大学, 电机工程系, 教学助理
+- 2021年9月至今         鹏城实验室, 宽带通信研究部, 助理研究员
+- 2019年9月至2021年8月  香港城市大学, 太赫兹及毫米波国家重点实验室, 博士后, 导师：陈志豪教授
+- 2016年1月至2019年6月  香港城市大学, 电机工程系, 教学助理
 
 You can use the [editor on GitHub](https://github.com/xuexuanruan/xuexuanruan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
