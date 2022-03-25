@@ -14,43 +14,21 @@
 - 本科至博士，在毫米波、太赫兹频段的天线设计、超表面设计、材料测试
 
 ### 期刊论文
-- [1] X. Ruan, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
+- [1] X. Ruan*, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
 - 一作；期刊影响因子：3.834；期刊分区：JCR二区，中科院二区，天线领域次级期刊
-- [2] X. Ruan and C. H. Chan, "An end-fire circularly-polarized complementary antenna array for 5G applications," IEEE Trans. Antennas Propag., vol. 68, pp. 266-274, 2020.
-一作；期刊影响因子：4.388；期刊分区：JCR一区，中科院二区，天线领域顶刊
-
-You can use the [editor on GitHub](https://github.com/xuexuanruan/xuexuanruan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuexuanruan/xuexuanruan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [2] X. Ruan* and C. H. Chan, "An end-fire circularly-polarized complementary antenna array for 5G applications," IEEE Trans. Antennas Propag., vol. 68, pp. 266-274, 2020.
+- 一作；期刊影响因子：4.388；期刊分区：JCR一区，中科院二区，天线领域顶刊
+- [3] X. Ruan* and C. H. Chan, "A circularly-polarized differentially-fed transmission-line-excited magneto-electric dipole antenna array for 5G applications," IEEE - Trans. Antennas Propag., vol. 67, pp. 2002-2007, 2019.
+- 一作；期刊影响因子：4.388；期刊分区：JCR一区，中科院二区，天线领域顶刊
+- [4] X. Ruan*, K. B. Ng, and C. H. Chan, "A differentially-fed transmission-line-excited magneto-electric dipole antenna array for 5G applications," IEEE Trans. Antennas Propag., vol. 66, pp. 5224-5230, 2018.
+- 一作；期刊影响因子：4.388；期刊分区：JCR一区，中科院二区，天线领域顶刊
+- [5] X. Ruan*, S. W. Qu, Q. Zhu, K. B. Ng, and C. H. Chan, "A complementary circularly polarized antenna for 60-GHz applications," IEEE Antennas Wirel.
+Propag. Lett., vol. 16, pp. 1373-1376, 2017.
+- 一作；期刊影响因子：3.834；期刊分区：JCR二区，中科院二区，天线领域次级期刊
+- [6] X. Ruan* and C. H. Chan, "Terahertz free-space dielectric property measurements using time- and frequency-domain setups," Int. J. RF Microw. C. E., vol. 29, p. e21839, Sep 2019.
+- 一作；期刊影响因子：1.694；期刊分区：JCR三区，中科院四区
+- [7]  K. Wang, J. J. Laurin, Q. Zhang, X. Ruan*, Y. Li, Q. Zhang, et al., "Cutoff wavenumber analyses of metallic waveguides filled with homogeneous anisotropic
+materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
+- 通讯作者；期刊影响因子：3.599；期刊分区：JCR一区，中科院二区，微波领域顶刊
+- [8] S. Zhou, S. Mu, S. Raju, C. Prawoto, X. Ruan*, K. Ng, et al., "Prototyping of terahertz metasurface by one-step lithographically defined templating," IEEE Photonics Technol. Lett., vol. 30, pp. 971-974, 2018.
+- 五作；期刊影响因子：2.468；期刊分区：JCR二区，中科院三区
