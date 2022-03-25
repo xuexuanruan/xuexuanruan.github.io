@@ -1,12 +1,12 @@
 <table border="0">
   <tr>
-    <td width="90%">
+    <td width="85%">
       <h1>阮学炫</h1>
       <p><b>博士学历</b></p>
       <p><b>鹏城国家实验室助理研究员</b></p>
       <p><b>邮箱：ruanxx@pcl.ac.cn</b></p>
     </td>
-    <td width="10%">
+    <td width="15%">
       <img src="/Head Portrait.png" width="100%">
     </td>
   </tr>
