@@ -61,10 +61,15 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 - [5] 2015年1月至2018年12月，应用于微波及太赫兹频段的低成本菲涅尔区平板透镜天线，73万港币，参与，负责设计用于5G通讯的宽带高增益天线
 
 ### 学术兼职
-2022年至今，IEEE Member
+- 2022年至今，IEEE Member
 
 ### 教学助理
 - 2019年，Wireless Connectivity in Modern Society
 - 2018年，Communication Engineering 和 Electronic Circuits
 - 2017年，Studies on Electronics Industry in China and Asia 和 Introduction to Electromagnetics
 - 2016年，Introduction to Electromagnetics 和 Applied Electromagnetics
+
+### 加入我们
+- 博士后，年薪可达50万元
+- 访问博士，每天补贴300元
+- 联合培养博士，https://mp.weixin.qq.com/s/rImoGdXCPHi4zSqA6eWowA
