@@ -1,13 +1,21 @@
 ## 阮学炫
 
 ### 工作经历
-- 2021年9月至今， 鹏城实验室，宽带通信研究部，助理研究员
-- 2019年9月至2021年8月， 香港城市大学，太赫兹及毫米波国家重点实验室，博士后，导师：陈志豪教授
-- 2016年1月至2019年6月， 香港城市大学，电机工程系，教学助理
+- 2021年9月至今，鹏城实验室，宽带通信研究部，助理研究员
+- 2019年9月至2021年8月，香港城市大学，太赫兹及毫米波国家重点实验室，博士后，导师：陈志豪教授
+- 2016年1月至2019年6月，香港城市大学，电机工程系，教学助理
 
 ### 教育背景
-- 2015年9月至2019年9月， 香港城市大学，电机工程系，电机工程，博士，导师：陈志豪教授
-- 2011年9月至2015年7月， 电子科技大学，电子工程学院，电磁场与无线技术，学士，导师：屈世伟教授
+- 2015年9月至2019年9月，香港城市大学，电机工程系，电机工程，博士，导师：陈志豪教授
+- 2011年9月至2015年7月，电子科技大学，电子工程学院，电磁场与无线技术，学士，导师：屈世伟教授
+
+### 研究方向
+- 博士后至今，应用优化算法、机器学习设计5G 通讯器件，如天线、滤波器
+- 本科至博士，在毫米波、太赫兹频段的天线设计、超表面设计、材料测试
+
+### 期刊论文
+- [1] X. Ruan, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
+- 一作；期刊影响因子：3.834；期刊分区：JCR二区、中科院二区
 
 You can use the [editor on GitHub](https://github.com/xuexuanruan/xuexuanruan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
