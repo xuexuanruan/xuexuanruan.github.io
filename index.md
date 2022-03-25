@@ -53,6 +53,6 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 
 ### 教学助理
 - 2019年，Wireless Connectivity in Modern Society
-- 2018年，Communication Engineering，Electronic Circuits
-- 2017年，Studies on Electronics Industry in China and Asia，Introduction to Electromagnetics
-- 2016年，Introduction to Electromagnetics，Applied Electromagnetics
+- 2018年，Communication Engineering 和 Electronic Circuits
+- 2017年，Studies on Electronics Industry in China and Asia 和 Introduction to Electromagnetics
+- 2016年，Introduction to Electromagnetics 和 Applied Electromagnetics
