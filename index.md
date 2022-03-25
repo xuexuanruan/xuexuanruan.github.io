@@ -1,13 +1,13 @@
 ## 阮学炫
 
 ### 工作经历
-- 2021.9至今，鹏城实验室，宽带通信研究部，助理研究员
-- 2019.9至2021.8，香港城市大学，太赫兹及毫米波国家重点实验室，博士后，导师：陈志豪教授
-- 2016.1至2019.6，香港城市大学，电机工程系，教学助理
+- 2021年9月至今，鹏城实验室，宽带通信研究部，助理研究员
+- 2019年9月至2021年8月，香港城市大学，太赫兹及毫米波国家重点实验室，博士后研究员，导师：陈志豪教授
+- 2016年1月至2019年6月，香港城市大学，电机工程系，教学助理
 
 ### 教育背景
-- 2015.9至2019.9，香港城市大学，电机工程系，电机工程，博士，导师：陈志豪教授
-- 2011.9至2015.7，电子科技大学，电子工程学院，电磁场与无线技术，学士，导师：屈世伟教授
+- 2015年9月至2019年9月，香港城市大学，电机工程系，电机工程，博士，导师：陈志豪教授
+- 2011年9月至2015年7月，电子科技大学，电子工程学院，电磁场与无线技术，学士，导师：屈世伟教授
 
 ### 研究方向
 - 博士后至今，应用优化算法、机器学习设计5G 通讯器件，如天线、滤波器
@@ -34,11 +34,11 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 - 五作；期刊影响因子：2.468；期刊分区：JCR二区，中科院三区
 
 ### 会议论文
-- [9] X. Ruan, K. B. Ng, H. Yi, S. W. Qu, and C. H. Chan, "A 90◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2019 13th European Conference on Antennas and Propagation (EUCAP), 2019, pp. 1-3.
+- [9] X. Ruan*, K. B. Ng, H. Yi, S. W. Qu, and C. H. Chan, "A 90◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2019 13th European Conference on Antennas and Propagation (EUCAP), 2019, pp. 1-3.
 - 一作；EI检索
-- [10] X. Ruan, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "A 45◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2017 11th European Conference on Antennas and Propagation (EUCAP), 2017, pp. 846-848.
+- [10] X. Ruan*, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "A 45◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2017 11th European Conference on Antennas and Propagation (EUCAP), 2017, pp. 846-848.
 - 一作；EI检索
-- [11] X. Ruan, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "Design and modeling of a circularly-polarized probe for terahertz near-field measurement," in 2016 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2016, pp. 1-2.
+- [11] X. Ruan*, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "Design and modeling of a circularly-polarized probe for terahertz near-field measurement," in 2016 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2016, pp. 1-2.
 - 一作；EI检索
 
 ### 科研项目
