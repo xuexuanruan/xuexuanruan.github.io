@@ -70,6 +70,6 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 - 2016年，Introduction to Electromagnetics 和 Applied Electromagnetics
 
 ### 加入我们
-- 博士后，年薪可达50万元（实验室38万元，深圳市财政生活补贴12万元（免税））
+- 博士后，年薪可达50万元（实验室38万元+深圳市财政生活补贴12万元（免税））
 - 访问博士，每天补贴300元，假如学校不在深圳，还有额外的租房补贴
 - 联合培养博士，https://mp.weixin.qq.com/s/rImoGdXCPHi4zSqA6eWowA
