@@ -25,6 +25,9 @@
 - 博士后至今，应用优化算法、机器学习设计5G毫米波通讯器件，如天线、滤波器
 - 本科至博士，在5G毫米波、太赫兹频段的天线设计、超表面设计、材料测试
 
+### 博士论文
+- RUAN Xuexuan 阮学炫, "Designs of Magnetoelectric Dipoles in the Millimeter-Wave Band 在毫米波频段的磁电偶极子设计," 2019.
+
 ### 期刊论文
 - [1] X. Ruan*, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
 - 一作；期刊影响因子：3.834；期刊分区：JCR二区，中科院二区，天线领域次级期刊
