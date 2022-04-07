@@ -27,6 +27,7 @@
 
 ### 博士论文
 - RUAN Xuexuan 阮學炫, "Designs of Magnetoelectric Dipoles in the Millimeter-Wave Band 在毫米波頻段的磁電偶極子設計," 2019.
+- http://lbms03.cityu.edu.hk/theses/c_ftt/phd-ee-37038265.pdf
 
 ### 期刊论文
 - [1] X. Ruan*, K. Wang, and K. X. Wang, "A transmission line transition to extend the transmission-line-excited magnetoelectric dipole antenna array," IEEE Antennas Wirel. Propag. Lett., 2022.
