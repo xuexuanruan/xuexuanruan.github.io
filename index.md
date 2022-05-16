@@ -49,9 +49,9 @@ materials using the MFCM," IEEE Trans. Microwave Theory Tech. , pp. 1-1, 2022.
 - 五作；期刊影响因子：2.468；期刊分区：JCR二区，中科院三区
 
 ### 会议论文
-- [9] X. Ruan*, K. B. Ng, H. Yi, S. W. Qu, and C. H. Chan, "A 90◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2019 13th European Conference on Antennas and Propagation (EUCAP), 2019, pp. 1-3.
+- [9] X. Ruan*, K. B. Ng, H. Yi, S. W. Qu, and C. H. Chan, "A 90◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2019 13th European Conference on Antennas and Propagation (EuCAP), 2019, pp. 1-3.
 - 一作；EI检索
-- [10] X. Ruan*, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "A 45◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2017 11th European Conference on Antennas and Propagation (EUCAP), 2017, pp. 846-848.
+- [10] X. Ruan*, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "A 45◦-inclined linearly polarized probe for terahertz Mueller imaging," in 2017 11th European Conference on Antennas and Propagation (EuCAP), 2017, pp. 846-848.
 - 一作；EI检索
 - [11] X. Ruan*, K. B. Ng, C. K. Wong, H. Yi, S. W. Qu, and C. H. Chan, "Design and modeling of a circularly-polarized probe for terahertz near-field measurement," in 2016 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2016, pp. 1-2.
 - 一作；EI检索
